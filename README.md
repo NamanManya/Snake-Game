@@ -1,6 +1,3 @@
-# Snake Game
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -28,11 +25,12 @@
         You can move the snake left, right, up and down with the help of the arrow keys.
       </li>
       <li>
-        While playing if the snake touches the wall or if it cuts its tail then your score drops to zero.
+        While playing if the snake touches the wall or if it cuts its tail then your<br> 
+        score drops to zero.
       </li>
       <li>
-        If you press the arrow key opposite to the snake's direction of motion then your score <br>
-        drops to zero.
+        If you press the arrow key opposite to the snake's direction of motion then<br> 
+        your score drops to zero.
       </li>
     </ul>
     </p>
