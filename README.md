@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <div style=" float: left;">
+  <div style=" float: left; width: 50%">
     <script src="p5.js"></script>
     <script src="sketch.js"></script>
     <script src="snake.js"></script>
@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <div style=" float: right;">
+  <div style=" float: right; margin: 50%">
     <p style=" font-size:150%;">
       <u>RULES FOR THE GAME</u>
     </p>
