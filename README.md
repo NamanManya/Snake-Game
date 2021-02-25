@@ -1,5 +1,5 @@
 <h2> Made by: Naman Singla </h2>
-First read the rules then <a href="play.html"> Click here to play the snake game </a>
+After reading the rules <a href="play.html"> Click here to play the snake game </a>
 <div style=" float: left;">
     <p style=" font-size:150%;">
       <u>RULES FOR THE GAME</u>
